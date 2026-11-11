@@ -8,7 +8,7 @@
 
 # Hi there, I'm Shreel Singh 👋
 
-### Computer Science Engineering Student | Developer | Tech Enthusiast
+### Pre Final Year Computer Science Engineering Student | Developer | Tech Enthusiast
 
 I enjoy building software, exploring new technologies, solving problems, and turning ideas into practical projects.
 
